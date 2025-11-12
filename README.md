@@ -2,7 +2,7 @@
 
 <!-- [Paper location](https://xxx.xx.xxx.xx/x_xxxxxxx/xxxx.pdf) -->
 
-This repository contains Python code for running the experiments in our paper. It includes use cases and a stochastic scheduling framework.
+This repository contains Python code for running the experiments in our paper, *Stochastic Scheduling for Human-Robot Collaboration in Dynamic Manufacturing Environments*, in 34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), Eindhoven, August 25-29, 2025. It includes use cases and the implementation of the stochastic scheduling framework.
 
 <!-- ![image](xxxxxxxx_xxxxx.jpg) -->
 
